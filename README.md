@@ -161,16 +161,6 @@ To distribute the application:
 
 Users can then download and run the application without installing Python.
 
----
-
-# 📸 Screenshots
-
-Add screenshots of:
-
-- Home Screen
-- Scan Window
-- Detection Results
-- Quarantine Window
 
 ---
 
@@ -229,6 +219,9 @@ https://github.com/samirkumarsaw18-beep
 
 Project:
 https://github.com/samirkumarsaw18-beep/vectorscanx
+
+Live Demo:
+https://samirkumarsaw18-beep.github.io/vectorscanx/
 
 ---
 
