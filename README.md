@@ -113,7 +113,12 @@ The executable will be generated inside the **dist/** folder.
 
 ---
 
-# 🌐 Deployment
+
+## Live Demo
+
+https://samirkumarsaw18-beep.github.io/vectorscanx/
+
+----
 
 ## GitHub Repository
 
